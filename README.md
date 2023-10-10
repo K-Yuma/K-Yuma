@@ -1,4 +1,13 @@
-### Hi there 👋
+## K-Yuma　🍜
+### tastes
+ - music appreciation 🎵
+ - game　🎮
+
+### while studying...
+ - HTML
+ - CSS
+ - programing
+
 
 <!--
 **K-Yuma/K-Yuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
